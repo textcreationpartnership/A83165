@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for bringing in the arreares of the assessements for the army, within the city of London and liberties thereof. With the names of the persons in each ward appointed for executing the same. Die Lunæ, 24 April. 1648. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83165</idno>
+            <idno type="STC">Wing E1951</idno>
+            <idno type="STC">Thomason E436_21</idno>
+            <idno type="STC">ESTC R204672</idno>
+            <idno type="EEBO-CITATION">99864138</idno>
+            <idno type="PROQUEST">99864138</idno>
+            <idno type="VID">116360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E436[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for bringing in the arreares of the assessements for the army, within the city of London and liberties thereof. With the names of the persons in each ward appointed for executing the same. Die Lunæ, 24 April. 1648. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Ioh. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Tax collection --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116360:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT, FOR The bringing in the Arreares of the Aſſeſſements for the Army, within the City of <hi>London</hi> and Liberties thereof.</p>
+            <p>With the names of the Perſons in each Ward appointed for executing the ſame.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 24 <hi>April.</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That this Ordinance be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1648.</p>
+            <pb facs="tcp:116360:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:116360:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 24 April. 1648.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Ordinance for the ſpeedy bring<g ref="char:EOLhyphen"/>ing in the Arreares of the Aſſeſſements in the City of <hi>London</hi> and Liberties thereof.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of Parliament of the fif<g ref="char:EOLhyphen"/>teenth of <hi>February</hi> 1644. Intituled, <hi>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, For raiſing and maintaining of Forces for the defence of the Kingdome, under the Command of the Lord <hi>Fairfax</hi> by the name of Sir <hi>Thomas Fairfax</hi>
+                  <pb facs="tcp:116360:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:116360:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:116360:4"/>
+Knight, a Monethly Aſſeſſement to continue for ten Moneths from the firſt of February, 1644. to the first of December then next following,</hi> was Ordained to be taxed and leavied upon the City of <hi>London</hi> and other places and Coun<g ref="char:EOLhyphen"/>ties in the ſaid Ordinance mentioned: And by another Ordinance of Parliament, dated the thirteenth day of<hi>Auguſt,</hi> 1645. the ſaid Monethly aſſeſſement for maintenance of the ſaid Army was Ordained, and appoin<g ref="char:EOLhyphen"/>ted to continue and indure for ſix Moneths longer from the ſaid firſt day of <hi>December</hi> 1645. unto the firſt day of <hi>June</hi> then next following; And whereas by an Ordinance of Parliament dated the ſixteenth pay of <hi>Aprill,</hi> 1646. the ſaid Ordinance of the fifteenth of <hi>February,</hi> 1644. with all the Taxes, and payments therein mentioned were to con<g ref="char:EOLhyphen"/>tinue for foure Moneths longer, from the ſaid firſt of <hi>Iune,</hi> 1646. untill the firſt of <hi>Octob.</hi> following; And whereas alſo by ano<g ref="char:EOLhyphen"/>ther Ordinance of Parliament of the three and twentieth day of <hi>Iune</hi> laſt, 1647. ſeve<g ref="char:EOLhyphen"/>rall ſummes of money were to be taxed,
+<pb n="3" facs="tcp:116360:4"/>
+leavied, and paid for maintenance of the ſaid Army by a Monethly aſſeſſement, to continue for twelve Moneths from the five and twentieth day of <hi>March,</hi> 1647. to the five and twentieth day of <hi>March,</hi> 1648. And whereas by an Ordinance of Parlia<g ref="char:EOLhyphen"/>ment of the fifteenth of <hi>March</hi> laſt, 1647. the like ſummes of money upon the ſaid City are to be taxed, leavied, and paid for maintenance of the ſaid Army by a Month<g ref="char:EOLhyphen"/>ly aſſeſſement, to continue for ſix Months longer from the five and twentieth of <hi>March</hi> laſt to the nine and twentieth of <hi>September</hi> now next enſuing, as by the ſaid ſeverall Ordinances may appeare, And whereas many great and conſiderable ſummes of mony remaine in Arreare, and yet unpaid upon the ſaid ſeverall Ordinances with<g ref="char:EOLhyphen"/>in the ſaid City of <hi>London</hi> and Liberties thereof, to the diſcouragement of thoſe that have willingly paid their proportion, very evill example of others, and great hin<g ref="char:EOLhyphen"/>derance of payment of the Army; and to the end the ſaid Arrears may be ſpeedily
+<pb n="4" facs="tcp:116360:5"/>
+gotten in, and all obſtructions that hinder the comming in thereof be removed, It is Ordained by the Lords and Commons in Parliament aſſembled, and be it Ordained by the authority thereof, That the ſeverall perſons hereafter named ſhall be, and are hereby appointed Commiſſioners for the ſaid ſeverall taxes and aſſeſſements in the ſaid City, and in the ſeverall Wards, and Liberties in and belonging to the ſaid City reſpectively, to put the ſaid ſeverall Ordi<g ref="char:EOLhyphen"/>nances in execution, and have power, and are hereby authorized to execute, and per<g ref="char:EOLhyphen"/>forme all and every the powers and autho<g ref="char:EOLhyphen"/>rities compriſed in the ſaid Ordinances, or in any the Ordinances mentioned in the ſaid laſt recited ordinance of the fifteenth of <hi>March</hi> laſt, or every of them, in as full and ample manner to all intents and purpoſes as any the Committees or Commiſſioners in the ſaid ordinances named, or any of them might or could doe, or performe the ſame.</p>
+            <list>
+               <pb n="5" facs="tcp:116360:5"/>
+               <head>Alderſgate within.</head>
+               <item>RIchard Morrall</item>
+               <item>Joſias Hams</item>
+               <item>Thomas Nowell.</item>
+               <item>Richard Gibbs</item>
+               <item>Iohn Sherman</item>
+               <item>Roger Jenkinſon</item>
+            </list>
+            <list>
+               <head>Alderſgate without</head>
+               <item>Iohn Johnſon</item>
+               <item>Richard Coates</item>
+               <item>Miles Fleſher</item>
+               <item>John Billingſley</item>
+               <item>George Osburneſton</item>
+               <item>William Lawrence</item>
+            </list>
+            <list>
+               <head>Algate Ward.</head>
+               <item>RIchard Cheverton</item>
+               <item>John Owfield</item>
+               <item>John Dethick</item>
+               <item>Sammel Moyer</item>
+               <item>John Merryat</item>
+               <item>Chriſtopher Blackſton</item>
+            </list>
+            <list>
+               <head>Baſingſhaw.</head>
+               <item>EEdwin Browne</item>
+               <item>George Dunn</item>
+               <item>
+                  <hi>Capt.</hi> Winſtandley</item>
+               <item>Thomas Clarke</item>
+            </list>
+            <list>
+               <head>Broad-ſtreet Ward</head>
+               <item>THomas Clowes</item>
+               <item>Iames Storey</item>
+               <item>Richard Clutterbuck</item>
+               <item>Robert Hanch</item>
+               <item>Rowland Wilſon, Senior.</item>
+               <item>Nicholas Could</item>
+               <item>Hogan Hovell</item>
+               <item>William Allen</item>
+            </list>
+            <list>
+               <head>Bridge Ward.</head>
+               <item>TObias Liſle</item>
+               <item>Richard Young</item>
+               <item>Stephen Eſtwick</item>
+               <item>Thomas Player</item>
+               <item>Edward Bellamy</item>
+               <item>Iſaack Foſter</item>
+               <item>Thomas Ward</item>
+               <item>Tho. Andrewes, junior</item>
+               <item>
+                  <pb n="6" facs="tcp:116360:6"/>
+Samuel Lee</item>
+               <item>William Mulins</item>
+               <item>
+                  <hi>Capt.</hi> Nathaniel Lacy</item>
+            </list>
+            <list>
+               <head>Bread-ſtreet Ward.</head>
+               <item>RIchard Turner</item>
+               <item>Francis Water-houſe</item>
+               <item>Thomas Steyne, ſenior</item>
+               <item>
+                  <hi>Major</hi> Hitchcock</item>
+               <item>Iohn Harper</item>
+               <item>Iohn Pocock</item>
+               <item>Richard Hutchiſon</item>
+               <item>
+                  <hi>Capt.</hi> Edward Storey</item>
+               <item>Richard Rigglesworth</item>
+               <item>Martin Nowell</item>
+               <item>Francis Craftes</item>
+            </list>
+            <list>
+               <head>Billingſgate Ward.</head>
+               <item>RObert Wood</item>
+               <item>John Wallington</item>
+               <item>William Harris</item>
+               <item>Randolph Baskervill</item>
+               <item>Thomas Lenthall</item>
+               <item>Richard Batſon</item>
+               <item>Dennis Gawden</item>
+               <item>Thomas Radburne</item>
+               <item>George Greimes</item>
+            </list>
+            <list>
+               <head>Biſhopſgate Ward.</head>
+               <item>WIll. Peaſe <hi>Deputy</hi>
+               </item>
+               <item>Thomas Stock</item>
+               <item>Hugh Norris</item>
+               <item>Richard Hardmeat</item>
+               <item>William Brumwitch</item>
+               <item>William Manby</item>
+               <item>Iohn Everet</item>
+               <item>William Bartley</item>
+               <item>Richard Warring</item>
+               <item>Edward Abell</item>
+               <item>William Fletcher</item>
+               <item>William Hedges</item>
+               <item>Edward Salisbury</item>
+               <item>Griffith Owen</item>
+            </list>
+            <list>
+               <head>Chandlewick Ward.</head>
+               <item>H<g ref="char:V">Ʋ</g>mphrey Hally</item>
+               <item>Thomas Andrews</item>
+               <item>Richard Warner</item>
+               <item>Zouch Watſon</item>
+               <item>Richard Dawes</item>
+               <item>Thomas Waters</item>
+               <item>Grace Harding</item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:116360:6"/>
+               <head>Cordwayner Ward.</head>
+               <item>MAurice Gethin</item>
+               <item>Tempeſt Milner</item>
+               <item>Nathaniell Hall</item>
+               <item>James Cooke</item>
+               <item>Richard Perry</item>
+               <item>Henry Coleburne</item>
+               <item>William Wallis</item>
+            </list>
+            <list>
+               <head>Cripplegate within</head>
+               <item>VVAlter Boothby</item>
+               <item>Anthony Webſter</item>
+               <item>Richard Floyd</item>
+               <item>Hugh Wood</item>
+               <item>Francis Aſh</item>
+               <item>William Blackwell</item>
+            </list>
+            <list>
+               <head>Cripplegate without</head>
+               <item>RObert Manwaring</item>
+               <item>Henry Greene</item>
+               <item>Charles Mynne</item>
+               <item>Ralph Taſker</item>
+               <item>Walter Price</item>
+               <item>Francis Webb</item>
+               <item>Robert Arden</item>
+            </list>
+            <list>
+               <head>Colemanſtreet</head>
+               <item>ANdrew Kendrick</item>
+               <item>
+                  <hi>Col.</hi> Owen Rowe</item>
+               <item>Ralph Hartley</item>
+               <item>Mark Hilderſly</item>
+               <item>Thomas Barn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdiſton</item>
+               <item>Richard Ashurſt</item>
+               <item>Thomas Bower</item>
+            </list>
+            <list>
+               <head>Cheap-VVard</head>
+               <item>VVIll. Adams <hi>Dep.</hi>
+               </item>
+               <item>Daniel Waldow</item>
+               <item>George Hadley</item>
+               <item>Robert Winch</item>
+               <item>Giles Dent</item>
+               <item>John Iurion</item>
+               <item>Thomas Allen</item>
+               <item>William Goddard</item>
+               <item>Thomas Brown</item>
+               <item>Thomas Benſon</item>
+               <item>Mathew Abott</item>
+               <item>Jeremy Royſton</item>
+               <item>Edmund Sleigh</item>
+            </list>
+            <list>
+               <pb n="8" facs="tcp:116360:7"/>
+               <head>Caſtle Beynard</head>
+               <item>THomas Gee</item>
+               <item>William Gibb</item>
+               <item>William Antrobus</item>
+               <item>Thomas Cole <hi>Draper</hi>
+               </item>
+               <item>Andrew Neale</item>
+               <item>Jeremy Richardſon</item>
+               <item>Henry Coles</item>
+               <item>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niel Tayler</item>
+               <item>John Ireton</item>
+               <item>Henry Barton</item>
+               <item>Vincent Limbrow</item>
+               <item>John Wine <hi>Dyer</hi>
+               </item>
+            </list>
+            <list>
+               <head>Cornhill ward</head>
+               <item>FRancis Moſſe</item>
+               <item>Gilbret Morewood</item>
+               <item>Francis Coleing</item>
+               <item>Phillip Mead</item>
+               <item>
+                  <hi>Major</hi> Wollaſton</item>
+               <item>Thomas Harris</item>
+            </list>
+            <list>
+               <head>Dowgate ward</head>
+               <item>IOhn Greene <hi>Deputy</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Colſon</item>
+               <item>John Bennet</item>
+               <item>William Brumſkill</item>
+               <item>Edward Hollingſhed</item>
+               <item>Peregrine Pretty</item>
+               <item>William Roberts</item>
+               <item>Thomas Fiſher</item>
+            </list>
+            <list>
+               <head>Farringdon within</head>
+               <item>RIchard Glide</item>
+               <item>John Fenton <hi>L. Col.</hi>
+               </item>
+               <item>Edward <g ref="char:V">Ʋ</g>aughan</item>
+               <item>Edward Honywood</item>
+               <item>Anthony Dowſe</item>
+               <item>Patricke Banford</item>
+               <item>Peter Mills</item>
+               <item>Hugh Ratcliffe</item>
+               <item>John Strange</item>
+               <item>William Greenhill</item>
+               <item>Edward Parkes</item>
+               <item>Michael Raynor</item>
+               <item>George Clarke</item>
+               <item>John Jones</item>
+            </list>
+            <list>
+               <head>Tower ward</head>
+               <item>IOhn Bennet</item>
+               <item>Andrew Richard</item>
+               <item>
+                  <pb n="9" facs="tcp:116360:7"/>
+VVilliam Bateman</item>
+               <item>Henry Sweet</item>
+               <item>Iohn Milton</item>
+               <item>Thomas Burnell</item>
+               <item>Gilbert Keat</item>
+               <item>Iohn Langley</item>
+               <item>Nathaniel VVright</item>
+               <item>George Hanger</item>
+            </list>
+            <list>
+               <head>Farrington without on Fleet-ſtreet ſide.</head>
+               <item>THo. Arnoll <hi>Deputy</hi>
+               </item>
+               <item>Matthew Fox</item>
+               <item>Ioſeph Parrot</item>
+               <item>Stephen Sedgewicke</item>
+               <item>William Perkins</item>
+               <item>Francis Allen</item>
+               <item>Alexander Normington</item>
+               <item>Thomas Watkins</item>
+               <item>Edward Lightmaker</item>
+            </list>
+            <list>
+               <head>Sepulchre ſide.</head>
+               <item>Nathaniel Camfield</item>
+               <item>Giles Rowles</item>
+               <item>Iohn Wilcox</item>
+               <item>Thomas Knowles</item>
+               <item>Iohn Gregory</item>
+               <item>Miles Petty</item>
+               <item>Iohn King</item>
+               <item>Benjamin Potter</item>
+               <item>Iames Stephens</item>
+               <item>Iames Martin</item>
+            </list>
+            <list>
+               <head>Lime-ſtreet.</head>
+               <item>ABraham Chamberlen</item>
+               <item>Roger Peele</item>
+               <item>Richard Middleton</item>
+               <item>Iohn Freebody</item>
+            </list>
+            <list>
+               <head>Langborne.</head>
+               <item>IOhn Babington</item>
+               <item>Robert Sweete</item>
+               <item>Tobias Dixon</item>
+               <item>Robert Dicer</item>
+               <item>Thomas Manering</item>
+               <item>Robert Render</item>
+               <item>Iaſper Cleyton</item>
+               <item>Andrew Hyde</item>
+               <item>Geffery Howland</item>
+               <item>Thomas Turgis</item>
+            </list>
+            <list>
+               <head>Port-ſoken Ward</head>
+               <item>LEonard Towers</item>
+               <item>Iohn Haies</item>
+               <item>Richard Berisford</item>
+               <item>Richard Grasforth</item>
+               <item>
+                  <pb n="10" facs="tcp:116360:8"/>
+VVilliam Watſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</item>
+               <item>Edward Anſloe</item>
+            </list>
+            <list>
+               <head>Queene-hith.</head>
+               <item>EDmund Whitwell</item>
+               <item>William Ball</item>
+               <item>Henry Hickman</item>
+               <item>Thomas Church-man</item>
+               <item>Richard Irons</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>rian Normanſell</item>
+            </list>
+            <list>
+               <head>Vintry.</head>
+               <item>MArtin Bradgate</item>
+               <item>Henry Waller</item>
+               <item>Iohn Cook</item>
+               <item>Andrew Bitgood</item>
+               <item>Humphrey Gould</item>
+               <item>
+                  <hi>Colonell</hi> Shepheard</item>
+               <item>Thomas Caffin</item>
+               <item>Ralph Baily</item>
+               <item>Robert Norwood</item>
+            </list>
+            <list>
+               <head>Walbrooke.</head>
+               <item>THomas Dawney</item>
+               <item>William Rawſon</item>
+               <item>Robert Mead</item>
+               <item>Francis Clay</item>
+               <item>Edward Stock</item>
+               <item>Michaell Hearing</item>
+               <item>Thomas VValker</item>
+               <item>Iohn Adams.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
